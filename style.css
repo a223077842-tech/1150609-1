@@ -1,0 +1,49 @@
+body{
+    background-color:#dfeecf;
+    font-family:Microsoft JhengHei;
+    margin:0;
+    padding:20px;
+}
+
+.container{
+    width:80%;
+    max-width:800px;
+    margin:auto;
+    background-color:white;
+    padding:30px;
+    border-radius:20px;
+    text-align:center;
+}
+
+.photo{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    border:5px solid #6c9b42;
+}
+
+h1{
+    color:#4f6f2f;
+}
+
+.intro{
+    font-size:18px;
+    color:#555555;
+    line-height:1.8;
+}
+
+.card{
+    background-color:#f3faec;
+    padding:20px;
+    margin-top:20px;
+    border-radius:15px;
+    text-align:left;
+}
+
+.card h2{
+    color:#6c9b42;
+}
+
+.card ul{
+    padding-left:20px;
+}
